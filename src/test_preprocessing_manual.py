@@ -1,4 +1,4 @@
-from preprocessing import download_nltk_resources, preprocess_for_tfidf
+from src.preprocessing import download_nltk_resources, preprocess_for_tfidf
 
 
 download_nltk_resources()
